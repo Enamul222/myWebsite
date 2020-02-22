@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#pinfo {
+    background: url(images/header-bg.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+
+.pinfo_container {
+    height: 566px;
+}
+
+.pinfotext p {
+    padding-bottom: 16px;
+}
+
+.pinfotext 
+
+.button {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 4px 12px;
+    background: #EC4C7A;
+    border-radius: 4px;
+}
+
+
+
+#name_highlight {
+    font-size: 49px;
+    color: #EC537F;
+}
+
+.text {
+    padding: 21px 0px;
+}
+
+.right_side {
+    overflow: hidden;
+}
+
+.right_side img {
+    width: 494px;
+    margin-left: 7%;
+    padding-top: 5%;
+}
+
+
+
+/* common css */
+
+.pinfotext {
+    width: 40%;
+    margin-left: 5%;
+    padding-top: 7%;
+    float: left;
+}
+
+.container{ 
+    text-align: center;
+}
+
+
+/* biography */
+
+#biography {
+    background: url(images/biography-bg.png);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    height: 779px;
+}
+
+.bioimage {
+    width: 40%;
+    float: left;
+    overflow: hidden;
+}
+
+}
+#bimg{}
+
+.bioText h3{}
+.bioText p{}
+
+
+
+/* work setion  */
+
+#my_work {
+    background: url(images/latest-work-bg.png);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: contain;
+    overflow: hidden;
+}
+
+.heading_text {
+    font-size: 40px;
+    padding: 40px 0px;
+}
+
+.work_images{}
+
+.work_images img {
+    width: 308px;
+    margin: 21px;
+    box-shadow: 10px 10px 10px black;
+}
+
+
+
+/* client review section */
+
+#client_review{
+
+}
+
+.client_name{}
+
+.text_email {
+    background: #EC4B75;
+    width: 372px;
+    padding: 28px;
+    border-radius: 5px;
+    margin-left: 468px;
+}
+
+.text_email p{}
+
+.text_email h2{}
+
+#client_text {
+    width: 630px;
+    padding-left: 362px;
+}
+
+
+
+/* footer section */
+
+footer {text-align: center;}
+footer p {
+    padding: 40px 0px;
+}
